@@ -1,0 +1,5 @@
+{
+    "Windows": {"clear_console":"cls"},
+    "Linux": {"clear_console":"clear"},
+    "MacOS": {"clear_console":"clear"}
+}
