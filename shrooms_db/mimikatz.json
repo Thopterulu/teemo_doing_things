@@ -1,0 +1,7 @@
+{
+    "name": "mimikatz",
+    "author": "gentilkiwi",
+    "version": "2.2.0-20220919",
+    "sha-256":"1F2338D7B628374139D373AF383A1BDEC1A16B43CED015849C6BE4E4D90CC2C3",
+    "download_link": "https://github.com/gentilkiwi/mimikatz/releases/download/2.2.0-20220919/mimikatz_trunk.7z"
+}
