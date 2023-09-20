@@ -3,7 +3,11 @@
 
 This project is made by me for me, if you find it useful it's nice. The main goal is to make a command line assistant to help you doing basic actions.
 
-Teemo doing things is mainly aimed for Linux based OS, but it might have Windows and MacOS support if I like it. But it will be developed with the support os the 3 OS in mind. Feel free to complete it.
+Teemo doing things is mainly aimed for Windows & Linux. But it will be developed with multiple os support in mind. Feel free to complete it.
+
+## Disclaimer
+
+This is only for research & educationnal purpose, don't use it in order to do bad things 😅
 
 ## Teemo will help you
 
